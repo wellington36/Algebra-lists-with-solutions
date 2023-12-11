@@ -2,8 +2,8 @@
 
 | List 1 | List 2 | List 3 | List 4 | List 5 | List 6 |
 |--------|--------|--------|--------|--------|--------|
-| [x] Problem 1  | [ ] Problem 16 | [ ] Problem 46 | [x] Problem 75  | [x] Problem 85  | [ ] Problem 101 |
-| [x] Problem 2  | [x] Problem 17 | [x] Problem 47 | [x] Problem 76  | [ ] Problem 86  | [x] Problem 102 |
+| ✅ Problem 1  | [ ] Problem 16 | [ ] Problem 46 | [x] Problem 75  | [x] Problem 85  | [ ] Problem 101 |
+| ❌ Problem 2  | [x] Problem 17 | [x] Problem 47 | [x] Problem 76  | [ ] Problem 86  | [x] Problem 102 |
 | [ ] Problem 3  | [x] Problem 18 | [x] Problem 48 | [x] Problem 77  | [x] Problem 87  | [x] Problem 103 |
 | [ ] Problem 4  | [ ] Problem 19 | [ ] Problem 49 | [ ] Problem 78  | [x] Problem 88  | [x] Problem 104 |
 | [x] Problem 5  | [x] Problem 20 | [x] Problem 50 | [x] Problem 79  | [x] Problem 89  | [ ] Problem 105 |
