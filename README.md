@@ -33,4 +33,4 @@
 |        | ❌ Q44 | ✅ Q74 |        |        | ❌ Q129 |
 |        | ✅ Q45 |        |        |        | ❌ Q130 |
 
-_some solutions may be completely correct_
+_some solutions may be incomplete or incorrect_
